@@ -17,8 +17,8 @@
 
 ### 🛡️ About Me:
 - 🔐 **Cybersecurity Enthusiast** — Passionate about API hacking, SIEM(Splunk, Google Chronicle), Risk Management Framework (RMF), Intrusion Detection and IDS tools, NIST Cybersecurity Framework, Information Assurance, Network Security, Threat Analysis, Vulnerability Assessment and Penetration Testing (VAPT), Network Analysis, Risk Assessment, Information Security and Incident Managent.
-- 📊 **Data Science & Analysis** — Skilled in Python, R, SQL, Spreadsheets, Bigquery, data visualization (Tableau & Power BI), Data Cleaning, Data Calcualtions, Data Aggregations, Data Ethics and Data Presentation.
-- 🌎 **Web Development** — Proficient in Python frameworks like Flask & Django, focusing on secure web applications.
+- 📊 **Data Science & Analysis** — Skilled in Python, R, SQL, Spreadsheets, Bigquery, Web Scraping, data visualization (Tableau & Power BI), Data Cleaning, Data Calcualtions, Data Aggregations, Data Ethics and Data Presentation.
+- 🌎 **Web Development** — Proficient in Python frameworks like Flask & Django learned through Angela Yu Python Bootcamp, focusing on secure web applications.
 - 🎯 **Always Learning** — Currently enhancing my skills in Linux security, threat hunting, Bug Bounty and AI-driven cybersecurity solutions.
 
 ---
