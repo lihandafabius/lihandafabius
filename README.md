@@ -58,6 +58,8 @@
 - 🎮 I enjoy CTF challenges and ethical hacking competitions.
 - 🎧 Love listening to cybersecurity podcasts while coding.
 - 🕵️‍♂️ Constantly exploring new attack vectors and security measures.
+- ⚡ I hold the **Undefeated Champion Title** 🏅 in the **Ugali Eating Challenge** 🍛🔥 in my local area! Think you can beat me? 😆
+
 
 ---
 
