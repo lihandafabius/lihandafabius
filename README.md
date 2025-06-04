@@ -25,7 +25,7 @@
 
 ### ⚡ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,linux,git,github,mysql,postgresql,html,css,bootstrap,tensorflow,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,linux,git,github,mysql,postgresql,html,css,bootstrap,tensorflow,javascript,AWS" />
 </p>
 
 ---
