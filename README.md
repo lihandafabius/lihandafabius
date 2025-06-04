@@ -55,9 +55,9 @@
 ---
 
 ### 🚀 Fun Facts:
-- 🎮 I enjoy CTF challenges and ethical hacking competitions.
-- 🎧 Love listening to cybersecurity podcasts while coding.
-- 🕵️‍♂️ Constantly exploring new attack vectors and security measures.
+- 🎮 I enjoy story telling through data analysis.
+- 🎧 Love listening to any song depending on moods and vibe of the day while coding 😆.
+- 🕵️‍♂️ Constantly exploring new challenges and offering global solutions.
 - ⚡ I hold the **Undefeated Champion Title** 🏅 in the **Ugali Eating Challenge** 🍛🔥 in my local area! Think you can beat me? 😆
 
 
