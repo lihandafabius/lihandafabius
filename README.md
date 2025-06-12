@@ -6,10 +6,6 @@
 <h1 align="center">Hi there, I'm Fabius Lihanda 👋</h1>
 
 <p align="center">
-  🚀 Cybersecurity Analyst | 📊 Data Scientist | 💻 Web Developer (Python)  
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&width=650&lines=Cybersecurity+%7C+Data+Science+%7C+Python+Web+Development;Passionate+about+Securing+the+Digital+World;Analyzing+Data+for+Meaningful+Insights;Building+Scalable+and+Secure+Web+Applications" alt="Typing SVG">
 </p>
 
