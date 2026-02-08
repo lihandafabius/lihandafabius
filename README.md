@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&width=650&lines=DevOps+%7C+Data+Science+%7C+Python+Web+Development;Passionate+about+Solving+Real+World+Problems;Analyzing+Data+for+Meaningful+Insights;Building+Scalable+and+Secure+Web+Applications;Automation;Optimizing+CI/CD+Pipelines;Cost+Optimization" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00FF00&width=650&lines=Data+Scientist+%7C+Junior+DevOps;Turning+Data+into+Insights;Automating+CI/CD+Pipelines;Building+Scalable+Data+Systems;Learning+Cloud+%26+MLOps" alt="Typing SVG">
 </p>
 
 ---
@@ -33,9 +33,9 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lihandafabius&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lihandafabius&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=lihandafabius&show_icons=true&theme=radical&cache_seconds=1800&hide_rank=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lihandafabius&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
