@@ -18,15 +18,15 @@
 
 ### 🛡️ About Me:
 - 🔐 **Cybersecurity Enthusiast** — Passionate about API hacking, SIEM(Splunk, Google Chronicle), Risk Management Framework (RMF), Intrusion Detection and IDS tools, NIST Cybersecurity Framework, Information Assurance, Network Security, Threat Analysis, Vulnerability Assessment and Penetration Testing (VAPT), Network Analysis, Risk Assessment, Information Security and Incident Managent.
-- 📊 **Data Science & Analysis** — Skilled in Python, R, SQL, Spreadsheets, Bigquery, Web Scraping, data visualization (Tableau & Power BI), Data Cleaning, Data Calcualtions, Data Aggregations, Data Ethics and Data Presentation.
+- 📊 **Data Science & Analysis** — Skilled in Databricks, Azure Ml, Python, SQL, Web Scraping, data visualization (Tableau & Power BI), Data Cleaning, Data Ethics, Data Presentation, Model Training and Evaluation.
 - 🌎 **Web Development** — Proficient in Python frameworks like Flask & Django learned through Angela Yu Python Bootcamp.
-- 🎯 **Always Learning** — Currently enhancing my skills in Cloud Computing, Web Security, Bug Bounty and AI-driven cybersecurity solutions.
+- 🎯 **Always Learning** — Currently enhancing my skills in Cloud Computing, Devops and Using data to solve problems.
 
 ---
 
 ### ⚡ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,linux,git,github,mysql,postgresql,html,css,bootstrap,tensorflow,javascript,aws" />
+  <img src="https://skillicons.dev/icons?i=python,flask,docker,nexus,linux,git,github,mysql,devops,aws,azure" />
 </p>
 
 ---
@@ -57,7 +57,6 @@
 
 ### 🚀 Fun Facts:
 - 🎮 I enjoy story telling through data analysis.
-- 🎧 Love listening to any song depending on moods and vibe of the day while coding 😆.
 - 🕵️‍♂️ Constantly exploring new challenges and offering global solutions.
 - ⚡ I hold the **Undefeated Champion Title** 🏅 in the **Ugali Eating Challenge** 🍛🔥 in my local area! Think you can beat me? 😆
 
