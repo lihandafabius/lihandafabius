@@ -6,27 +6,27 @@
 <h1 align="center">Hi there, I'm Fabius Lihanda 👋</h1>
 
 <p align="center">
-  🚀 Cybersecurity Analyst | 📊 Data Scientist | 💻 Web Developer (Python)  
+  🚀 Devops Engineer| 📊 Data Scientist  
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&width=650&lines=Cybersecurity+%7C+Data+Science+%7C+Python+Web+Development;Passionate+about+Securing+the+Digital+World;Analyzing+Data+for+Meaningful+Insights;Building+Scalable+and+Secure+Web+Applications" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&width=650&lines=Devops+%7C+Data+Science+%7C+Python+Web+Development;Passionate+about+Solving+real+World+Problems;Analyzing+Data+for+Meaningful+Insights;Building+Scalable+and+Secure+Web+Applications; Automation;Optimizing CI/CD Pipelines;Cost Optimization" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🛡️ About Me:
-- 🔐 **Cybersecurity Enthusiast** — Passionate about API hacking, SIEM(Splunk, Google Chronicle), Risk Management Framework (RMF), Intrusion Detection and IDS tools, NIST Cybersecurity Framework, Information Assurance, Network Security, Threat Analysis, Vulnerability Assessment and Penetration Testing (VAPT), Network Analysis, Risk Assessment, Information Security and Incident Managent.
-- 📊 **Data Science & Analysis** — Skilled in Databricks, Azure Ml, Python, SQL, Web Scraping, data visualization (Tableau & Power BI), Data Cleaning, Data Ethics, Data Presentation, Model Training and Evaluation.
+- 🚀 **Junior DevOps Engineer** — Learning CI/CD pipelines, cloud platforms (AWS, Azure), Docker and Kubernetes concepts, Linux fundamentals, scripting with Bash and Python, infrastructure as code (Terraform), monitoring and logging tools (ELk, Grafana), automation, and learning DevSecOps and reliability best practices.
+- 📊 **Data Science & Analysis** — Skilled in Databricks, Azure Ml, Python, SQL, Web Scraping, data visualization (Tableau & Power BI), Data Cleaning, Data Ethics, Data Presentation, MLflow and Model Training and Evaluation.
 - 🌎 **Web Development** — Proficient in Python frameworks like Flask & Django learned through Angela Yu Python Bootcamp.
-- 🎯 **Always Learning** — Currently enhancing my skills in Cloud Computing, Devops and Using data to solve problems.
+- 🎯 **Always Learning** — Currently enhancing my skills in Technical Writing, Cloud Computing, Devops and Using data to solve problems.
 
 ---
 
 ### ⚡ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,docker,nexus,linux,git,github,mysql,devops,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=python,flask,docker,linux,git,github,mysql,aws,azure" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🌍 Let's Connect:
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabius-lihanda-228947241/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabius-lihanda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:fabiuslihandaachevi@gmail.com">
