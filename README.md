@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&width=650&lines=Devops+%7C+Data+Science+%7C+Python+Web+Development;Passionate+about+Solving+real+World+Problems;Analyzing+Data+for+Meaningful+Insights;Building+Scalable+and+Secure+Web+Applications; Automation;Optimizing CI/CD Pipelines;Cost Optimization" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&width=650&lines=DevOps+%7C+Data+Science+%7C+Python+Web+Development;Passionate+about+Solving+Real+World+Problems;Analyzing+Data+for+Meaningful+Insights;Building+Scalable+and+Secure+Web+Applications;Automation;Optimizing+CI/CD+Pipelines;Cost+Optimization" alt="Typing SVG">
 </p>
 
 ---
