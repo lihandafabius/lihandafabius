@@ -55,14 +55,6 @@
 
 ---
 
-### 🚀 Fun Facts:
-- 🎮 I enjoy story telling through data analysis.
-- 🕵️‍♂️ Constantly exploring new challenges and offering global solutions.
-- ⚡ I hold the **Undefeated Champion Title** 🏅 in the **Ugali Eating Challenge** 🍛🔥 in my local area! Think you can beat me? 😆
-
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </p>
