@@ -17,7 +17,7 @@
 ---
 
 ### 🛡️ About Me:
-- 🚀 **Junior DevOps Engineer** — Learning CI/CD pipelines, cloud platforms (AWS, Azure), Docker and Kubernetes concepts, Linux fundamentals, scripting with Bash and Python, infrastructure as code (Terraform), monitoring and logging tools (ELk, Grafana), automation, and learning DevSecOps and reliability best practices.
+- 🚀 **DevOps Engineer** — Learning CI/CD pipelines, cloud platforms (AWS, Azure), Docker and Kubernetes concepts, Linux fundamentals, scripting with Bash and Python, infrastructure as code (Terraform), monitoring and logging tools (ELk, Grafana), automation, and learning DevSecOps and reliability best practices.
 - 📊 **Data Science & Analysis** — Skilled in Databricks, Azure Ml, Python, SQL, Web Scraping, data visualization (Tableau & Power BI), Data Cleaning, Data Ethics, Data Presentation, MLflow and Model Training and Evaluation.
 - 🌎 **Web Development** — Proficient in Python frameworks like Flask & Django learned through Angela Yu Python Bootcamp.
 - 🎯 **Always Learning** — Currently enhancing my skills in Technical Writing, Cloud Computing, Devops and Using data to solve problems.
