@@ -1,0 +1,34 @@
+<svg width="700" height="520" viewBox="0 0 700 520" xmlns="http://www.w3.org/2000/svg" font-family="'Ubuntu Mono', 'Fira Code', monospace">
+  <rect width="700" height="520" rx="8" fill="#300a24"/>
+  <rect width="700" height="32" rx="8" fill="#3c3b37"/>
+  <rect y="22" width="700" height="10" fill="#3c3b37"/>
+  <text x="16" y="21" fill="#eeeeec" font-size="12">fabius@devops: ~</text>
+  <rect x="640" y="10" width="14" height="14" rx="3" fill="#5c5c5c"/>
+  <text x="647" y="21" text-anchor="middle" fill="#eeeeec" font-size="11">_</text>
+  <rect x="662" y="10" width="14" height="14" rx="3" fill="#5c5c5c"/>
+  <rect x="666" y="14" width="6" height="6" fill="#eeeeec"/>
+  <rect x="684" y="10" width="14" height="14" rx="3" fill="#c0392b"/>
+  <text x="691" y="21" text-anchor="middle" fill="#eeeeec" font-size="11">x</text>
+
+  <text x="20" y="64" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$ whoami</tspan></text>
+  <text x="20" y="86" font-size="14" fill="#eeeeec">Fabius Lihanda</text>
+  <text x="20" y="108" font-size="14" fill="#aaaaaa">DevOps Engineer | Cloud | Kubernetes | GitOps</text>
+
+  <text x="20" y="142" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$ cat </tspan><tspan fill="#fce94f">about.txt</tspan></text>
+  <text x="20" y="164" font-size="14" fill="#aaaaaa">Building CI/CD pipelines, containerized deployments, and cloud</text>
+  <text x="20" y="186" font-size="14" fill="#aaaaaa">infrastructure with a background in data science and analysis.</text>
+  <text x="20" y="208" font-size="14" fill="#aaaaaa">Currently deepening expertise in Kubernetes, IaC, and MLOps.</text>
+
+  <text x="20" y="242" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$ cat </tspan><tspan fill="#fce94f">expertise.txt</tspan></text>
+  <text x="20" y="264" font-size="14" fill="#ad7fa8">Cloud Infrastructure</text>
+  <text x="20" y="286" font-size="14" fill="#ad7fa8">CI/CD Automation</text>
+  <text x="20" y="308" font-size="14" fill="#ad7fa8">Infrastructure as Code</text>
+  <text x="20" y="330" font-size="14" fill="#ad7fa8">Kubernetes &amp; GitOps</text>
+  <text x="20" y="352" font-size="14" fill="#ad7fa8">Observability</text>
+  <text x="20" y="374" font-size="14" fill="#ad7fa8">Linux</text>
+
+  <text x="20" y="408" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$</tspan></text>
+  <rect x="98" y="396" width="9" height="16" fill="#eeeeec">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
