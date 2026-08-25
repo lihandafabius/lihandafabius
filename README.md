@@ -4,27 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Kubernetes;CI%2FCD+Automation;Data+Scientist" alt="Typing SVG">
 </p>
 
-```
-┌──[fabius@devops]─[~]
-└─$ whoami
-   Fabius Lihanda
-   DevOps Engineer | Cloud | Kubernetes | GitOps
-
-└─$ cat about.txt
-   Building CI/CD pipelines, containerized deployments, and cloud
-   infrastructure with a background in data science and analysis.
-   Currently deepening expertise in Kubernetes, IaC, and MLOps.
-
-└─$ cat expertise.txt
-   Cloud Infrastructure
-   CI/CD Automation
-   Infrastructure as Code
-   Kubernetes & GitOps
-   Observability
-   Linux
-
-└─$ █
-```
+<p align="center">
+  <img src="terminal.svg" alt="Terminal" width="700">
+</p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
