@@ -1,60 +1,57 @@
-<!-- Banner Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="Cybersecurity Animation">
-</p>
-
-<h1 align="center">Hi there, I'm Fabius Lihanda 👋</h1>
+<h1 align="center">Fabius Lihanda</h1>
 
 <p align="center">
-  🚀 Devops Engineer| 📊 Data Scientist  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Kubernetes;CI%2FCD+Automation;Data+Scientist" alt="Typing SVG">
 </p>
-
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00FF00&width=650&lines=Data+Scientist+%7C+Junior+DevOps;Turning+Data+into+Insights;Automating+CI/CD+Pipelines;Building+Scalable+Data+Systems;Learning+Cloud+%26+MLOps" alt="Typing SVG">
+  <code>Cloud Infrastructure</code> · <code>CI/CD</code> · <code>Kubernetes</code> · <code>Data & ML</code>
 </p>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 🛡️ About Me:
-- 🚀 **DevOps Engineer** — Learning CI/CD pipelines, cloud platforms (AWS, Azure), Docker and Kubernetes concepts, Linux fundamentals, scripting with Bash and Python, infrastructure as code (Terraform), monitoring and logging tools (ELk, Grafana), automation, and learning DevSecOps and reliability best practices.
-- 📊 **Data Science & Analysis** — Skilled in Databricks, Azure Ml, Python, SQL, Web Scraping, data visualization (Tableau & Power BI), Data Cleaning, Data Ethics, Data Presentation, MLflow and Model Training and Evaluation.
-- 🌎 **Web Development** — Proficient in Python frameworks like Flask & Django learned through Angela Yu Python Bootcamp.
-- 🎯 **Always Learning** — Currently enhancing my skills in Technical Writing, Cloud Computing, Devops and Using data to solve problems.
+### About
 
----
+DevOps Engineer building CI/CD pipelines, containerized deployments, and cloud
+infrastructure with a background in data science and analysis. Currently
+deepening expertise in Kubernetes, Infrastructure as Code, and MLOps.
 
-### ⚡ Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,docker,linux,git,github,mysql,aws,azure" />
-</p>
+```
+role      DevOps Engineer / Data Scientist
+focus     Cloud automation, CI/CD, Kubernetes, DevSecOps
+also      Data analysis, ML workflows, technical writing
+based in  [your location]
+```
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lihandafabius&show_icons=true&theme=radical&cache_seconds=1800&hide_rank=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lihandafabius&theme=radical" alt="GitHub Streak" />
-</p>
+### Tech Stack
 
----
+```
+Cloud & Infra    AWS · Azure · Terraform · Docker · Kubernetes · Linux
+CI/CD            Jenkins · GitHub Actions · Azure DevOps · GitOps
+Observability    Prometheus · Grafana · Loki · ELK
+Data & ML        Python · SQL · Databricks · Azure ML · MLflow
+Web              Flask · Django
+```
 
-### 🌍 Let's Connect:
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabius-lihanda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:fabiuslihandaachevi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/lihandafabius">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
----
+### GitHub Stats
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+  <img src="https://github-readme-stats.vercel.app/api?username=lihandafabius&show_icons=true&theme=default&hide_border=true&hide_rank=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lihandafabius&theme=default&hide_border=true" alt="GitHub Streak" height="165">
 </p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### Contact
+
+```
+LinkedIn   linkedin.com/in/fabius-lihanda
+Email      fabiuslihandaachevi@gmail.com
+GitHub     github.com/lihandafabius
+```
+
+<p align="center"><sub>Thanks for stopping by.</sub></p>
