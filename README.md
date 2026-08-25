@@ -40,7 +40,7 @@ Web              Flask · Django
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lihandafabius&show_icons=true&theme=default&hide_border=true&hide_rank=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=lihandafabius&show_icons=true&theme=default&hide_border=true&hide_rank=true" alt="GitHub Stats" height="165">
   <img src="https://streak-stats.demolab.com?user=lihandafabius&theme=default&hide_border=true" alt="GitHub Streak" height="165">
 </p>
 
