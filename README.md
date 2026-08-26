@@ -12,7 +12,7 @@
 
 ### Tech Stack
 
-```
+```text
 Cloud & Infra    AWS · Azure · Terraform · Docker · Kubernetes · Linux
 CI/CD            Jenkins · GitHub Actions · Azure DevOps · GitOps
 Observability    Prometheus · Grafana · Loki · ELK
@@ -22,18 +22,22 @@ Web              Flask · Django
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### GitHub Stats
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-black.vercel.app/api?username=lihandafabius&show_icons=true&theme=default&hide_border=true&hide_rank=true" alt="GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=lihandafabius&theme=default&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=lihandafabius&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Fabius' GitHub Stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=lihandafabius&theme=default&hide_border=true" alt="Fabius' GitHub Streak" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihandafabius&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### Contact
 
-```
+```text
 LinkedIn   linkedin.com/in/fabius-lihanda
 Email      fabiuslihandaachevi@gmail.com
 GitHub     github.com/lihandafabius
