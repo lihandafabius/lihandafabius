@@ -1,5 +1,5 @@
-<svg width="760" height="520" viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg" font-family="'Ubuntu Mono', 'Fira Code', monospace">
-  <rect width="760" height="520" rx="8" fill="#300a24"/>
+<svg width="760" height="540" viewBox="0 0 760 540" xmlns="http://www.w3.org/2000/svg" font-family="'Ubuntu Mono', 'Fira Code', monospace">
+  <rect width="760" height="540" rx="8" fill="#300a24"/>
   <rect width="760" height="32" rx="8" fill="#3c3b37"/>
   <rect y="22" width="760" height="10" fill="#3c3b37"/>
   <text x="16" y="21" fill="#eeeeec" font-size="12">fabius@devops: ~</text>
@@ -17,18 +17,21 @@
   <text x="20" y="142" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$ cat </tspan><tspan fill="#fce94f">about.txt</tspan></text>
   <text x="20" y="164" font-size="14" fill="#aaaaaa">Building CI/CD pipelines, containerized deployments, and cloud</text>
   <text x="20" y="186" font-size="14" fill="#aaaaaa">infrastructure with a background in data science and analysis.</text>
-  <text x="20" y="208" font-size="14" fill="#aaaaaa">Currently deepening expertise in Kubernetes, IaC, and MLOps.</text>
+  <text x="20" y="208" font-size="14" fill="#aaaaaa">Automating workflows with Python and applying MLOps across the</text>
+  <text x="20" y="230" font-size="14" fill="#aaaaaa">machine learning lifecycle, from training through deployment.</text>
 
-  <text x="20" y="242" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$ cat </tspan><tspan fill="#fce94f">expertise.txt</tspan></text>
-  <text x="20" y="264" font-size="14" fill="#ad7fa8">Cloud Infrastructure</text>
-  <text x="20" y="286" font-size="14" fill="#ad7fa8">CI/CD Automation</text>
-  <text x="20" y="308" font-size="14" fill="#ad7fa8">Infrastructure as Code</text>
-  <text x="20" y="330" font-size="14" fill="#ad7fa8">Kubernetes &amp; GitOps</text>
-  <text x="20" y="352" font-size="14" fill="#ad7fa8">Observability</text>
-  <text x="20" y="374" font-size="14" fill="#ad7fa8">Linux</text>
+  <text x="20" y="264" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$ cat </tspan><tspan fill="#fce94f">expertise.txt</tspan></text>
+  <text x="20" y="286" font-size="14" fill="#ad7fa8">Cloud Infrastructure</text>
+  <text x="20" y="308" font-size="14" fill="#ad7fa8">CI/CD Automation</text>
+  <text x="20" y="330" font-size="14" fill="#ad7fa8">Infrastructure as Code</text>
+  <text x="20" y="352" font-size="14" fill="#ad7fa8">Kubernetes &amp; GitOps</text>
+  <text x="20" y="374" font-size="14" fill="#ad7fa8">MLOps &amp; ML Lifecycle</text>
+  <text x="20" y="396" font-size="14" fill="#ad7fa8">Python Automation</text>
+  <text x="20" y="418" font-size="14" fill="#ad7fa8">Observability</text>
+  <text x="20" y="440" font-size="14" fill="#ad7fa8">Linux</text>
 
-  <text x="20" y="408" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$</tspan></text>
-  <rect x="163" y="396" width="9" height="16" fill="#eeeeec">
+  <text x="20" y="474" font-size="14"><tspan fill="#8ae234">fabius@devops</tspan><tspan fill="#eeeeec">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#eeeeec">$</tspan></text>
+  <rect x="163" y="462" width="9" height="16" fill="#eeeeec">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
