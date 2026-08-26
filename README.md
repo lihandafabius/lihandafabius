@@ -15,7 +15,8 @@
 ```text
 Cloud & Infra    AWS · Azure · Terraform · Docker · Kubernetes · Linux
 CI/CD            Jenkins · GitHub Actions · Azure DevOps · GitOps
-Observability    Prometheus · Grafana · Loki · ELK
+Config Mgmt      Ansible
+Observability    Prometheus · Grafana
 Data & ML        Python · SQL · Databricks · Azure ML · MLflow
 Web              Flask · Django
 ```
@@ -41,6 +42,7 @@ Web              Flask · Django
 LinkedIn   linkedin.com/in/fabius-lihanda
 Email      fabiuslihandaachevi@gmail.com
 GitHub     github.com/lihandafabius
+Medium     https://medium.com/@fabiuslihandaachevi
 ```
 
 <p align="center"><sub>Thanks for stopping by.</sub></p>
