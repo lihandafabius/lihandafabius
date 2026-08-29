@@ -23,18 +23,6 @@ Web              Flask · Django
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lihandafabius&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Fabius' GitHub Stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=lihandafabius&theme=default&hide_border=true" alt="Fabius' GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihandafabius&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages">
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### Contact
 
